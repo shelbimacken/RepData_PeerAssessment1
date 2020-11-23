@@ -151,5 +151,5 @@ xyplot(avgStepsData$avgSteps ~ avgStepsData$interval | avgStepsData$dayType,
        xlab = "Interval", ylab = "Number of steps")
 ```
 
-From looking at the plot, it seems like steps may be greater and distrubited over greater time intervals, latter in the day on weekends than during weekdays. However, deeper analysis should be completed. 
+From looking at the plot, it seems like steps may be greater and distributed over greater time intervals, latter in the day on weekends than during weekdays. However, deeper analysis should be completed. 
 

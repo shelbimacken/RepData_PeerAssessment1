@@ -230,5 +230,5 @@ xyplot(avgStepsData$avgSteps ~ avgStepsData$interval | avgStepsData$dayType,
 
 ![](PA1_template_files/figure-html/unnamed-chunk-15-1.png)<!-- -->
 
-From looking at the plot, it seems like steps may be greater and distrubited over greater time intervals, latter in the day on weekends than during weekdays. However, deeper analysis should be completed. 
+From looking at the plot, it seems like steps may be greater and distributed over greater time intervals, latter in the day on weekends than during weekdays. However, deeper analysis should be completed. 
 
